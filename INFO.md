@@ -27,3 +27,4 @@ We welcome contributions! Feel free to fork the repository, create feature branc
 
 License
 This project is licensed under the Apache 2.0 License – see the LICENSE file for details.
+--okk  Fixed typo in README
